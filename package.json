@@ -4,9 +4,10 @@
   "description": "U&I Dark Theme!",
   "version": "2.3.0",
   "publisher": "UtkrishtaSinha",
+  "icon": "themes/icon.jpeg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utkrishta24/UI-Dark-Theme"
+    "url": "https://github.com/utkrishta24/UI-Dark-Theme/tree/main"
   },
   "keywords": [
     "dark",
