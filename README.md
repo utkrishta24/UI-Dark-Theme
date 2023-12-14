@@ -5,7 +5,7 @@
   A minimal & eye-friendly dark theme for VS Code</a>.
 </p>
 
-![Screenshot](https://github.com/utkrishta24/UI-Dark-Theme/Screenshot.png)
+![Screenshot](https://github.com/utkrishta24/UI-Dark-Theme/blob/main/themes/Screenshot.png)
 
 ## Installation via VS Code
 
