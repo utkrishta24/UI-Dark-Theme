@@ -317,8 +317,8 @@
 		"debugToolBar.background": "#2f3b54",
 		"debugToolBar.border": "#2f3b54",
 		// Welcome Page
-		"welcomePage.buttonBackground": "#2f3b54",
-		"welcomePage.buttonHoverBackground": "#2f3b5499",
+		// "welcomePage.buttonBackground": "#2f3b54",
+		// "welcomePage.buttonHoverBackground": "#2f3b5499",
 		"walkThrough.embeddedEditorBackground": "#171c28",
 		// Git colors
 		"gitDecoration.modifiedResourceForeground": "#5ccfe6",
